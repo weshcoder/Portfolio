@@ -11260,8 +11260,13 @@ p {
 .portfolio .portfolio-container .portfolio-item .content-holder .subtitle {
   font-weight: 500;
   opacity: 1;
-  color: #20b3bb;
+  color: #fff;
 }
+
+#panya-rut {
+  color: skyblue;
+}
+
 
 .portfolio .portfolio-container .portfolio-item:hover .content-holder {
   opacity: 1;
