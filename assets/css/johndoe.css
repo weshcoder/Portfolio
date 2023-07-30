@@ -11173,7 +11173,7 @@ p {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  display: -ms-flexbox;
+  display: -webkit-box;
   display: flex;
   -webkit-box-pack: justify;
   -webkit-justify-content: space-between;
