@@ -11170,6 +11170,9 @@ p {
   max-width: 400px;
   display: -webkit-box;
   display: -webkit-flex;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
