@@ -11196,11 +11196,13 @@ p {
 
 .portfolio .filters a:hover {
   opacity: .9;
+  background: #495057;
+
 }
 
 .portfolio .filters a.active {
   opacity: 1;
-  background: #F85C70;
+  background: #81303a;
   color: #fff;
 }
 
@@ -11682,4 +11684,19 @@ pre .code {
   background: #F85C70;
   display: block;
   margin-top: 10px;
+}
+
+.panya { 
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 100px;
+
+}
+
+.panya-image:hover{
+  box-shadow: -2px 3px 48px 10px rgba(0,0,0,0.54);
+  -webkit-box-shadow: -2px 3px 48px 10px rgba(0,0,0,0.54);
+  -moz-box-shadow: -2px 3px 48px 10px rgba(0,0,0,0.54);
 }
